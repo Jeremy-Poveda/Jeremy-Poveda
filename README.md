@@ -10,9 +10,9 @@ Hi, I'm Jeremy Poveda Gorotiza a future engineer in Computer Science, searching 
 - [Medical appointment system 📝](https://github.com/Jeremy-Poveda/Medical-appointment-system-for-special-children)
 - [Glaucoma Detector 👁️](https://github.com/Jeremy-Poveda/GlaucomaDetectorIA)
 ## Interest
-- HTML5, CSS, Javascript (and Typescript), Lua, Python.
-- Web Development: Angular, Nodejs, Express, SpringBoot.
-- Learning ✍🏻: C/C++, Rust
+- HTML5, CSS, Javascript (and Typescript), Python.
+- Web Development: Angular, Nodejs, Express, NestJS, SpringBoot.
+- Learning ✍🏻: Zig
 ## Languages
 - Spanish (Native)
 - English B2
